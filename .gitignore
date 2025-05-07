@@ -4,3 +4,7 @@ data/ratings.csv
 
 # virtual environment
 venv/
+
+# Unnecessary folder
+recommendation/__pycache__
+utils/__pycache__
