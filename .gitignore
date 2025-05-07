@@ -1,0 +1,6 @@
+# data
+data/movies.csv
+data/ratings.csv
+
+# virtual environment
+venv/
