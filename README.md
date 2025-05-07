@@ -57,8 +57,8 @@ This project is a Streamlit web application that provides a Netflix-style movie 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/netflix-recommendation-system.git
-cd netflix-recommendation-system
+git clone git@github.com:abiolaah/movie_recommendation_web_system.git
+cd movie_recommendation_web_system
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
